@@ -20,12 +20,13 @@ public class Ej1 {
         String idFichero = "matriz.txt";
         String tmp;
         // Array a escribir
-        int matrizNumeros[][] = new int[5][8];
+        int matrizNumeros[][] = new int[9][8];
 
         // Si se utiliza el constructor FileWriter(idFichero, true) entonces se anexa información
         // al final del fichero idFichero
         // Estructura try-with-resources. Instancia el objeto con el fichero a escribir
         // y se encarga de cerrar el recurso "flujo" una vez finalizadas las operaciones
+        
         int inicial = 100;
         String primerValor = "";
 

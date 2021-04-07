@@ -21,9 +21,6 @@ public class Ej3 {
     public static void main(String[] args) {
         // Fichero a crear. Ruta relativa a la carpeta raíz del proyecto
         String idFichero = "letras.txt";
-        String tmp;
-        // Array a escribir
-        boolean tipoLetra;
 
         try ( BufferedWriter flujo = new BufferedWriter(new FileWriter(idFichero))) {
 

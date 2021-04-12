@@ -35,8 +35,6 @@ public class Ej3 {
                     
                     char letra = letras.charAt(indiceLetraSacar);
                     letraFinal= Character.toString(letra);
-                    
-                    i++;
 
                     if(letraFinal.equalsIgnoreCase("x")){
                         flujo.write(letraFinal);
@@ -49,7 +47,7 @@ public class Ej3 {
 
                 // Metodo newLine() añade salto de línea después de cada fila
                 flujo.newLine();
-                i-=1;
+                
             }
 
             // Metodo fluh() guarda cambios en disco 

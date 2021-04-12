@@ -20,7 +20,7 @@ public class Ej1 {
         String idFichero = "matriz.txt";
         String tmp;
         // Array a escribir
-        int matrizNumeros[][] = new int[9][8];
+        int matrizNumeros[][] = new int[5][6];
 
         // Si se utiliza el constructor FileWriter(idFichero, true) entonces se anexa información
         // al final del fichero idFichero

@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package Ej4;
+package Ej4yEj7;
 
 import java.util.ArrayList;
 import java.util.Random;
@@ -12,7 +12,7 @@ import java.util.Random;
  *
  * @author NitroPc
  */
-public class Vehiculo {
+public class Vehiculo implements Comparable<Vehiculo> {
 
     private Long bastidor;
     private String matricula;
@@ -99,7 +99,7 @@ public class Vehiculo {
 
     @Override
     public String toString() {
-        return matricula + ":" + marca + ":" + modelo + ":" + color + ":" + tarifa + ':' + bastidor;
+        return matricula + ":" + marca + ":" + modelo + ":" + color + ":" + tarifa + ':' + bastidor + ":" + disponible;
     }
 
     private static String crearMatricula() {
@@ -151,7 +151,7 @@ public class Vehiculo {
         String cadena = "";
 
         do {
-            for (int i = 0; i < 17; i++) {
+            for (int i = 0; i < 7; i++) {
 
                     int enteroAleatorio = aleatorio.nextInt(9 - 0 + 1) + 0;
                     cadena += Integer.toString(enteroAleatorio);
@@ -211,10 +211,15 @@ public class Vehiculo {
     }
     
     private static double tarifa(int posicion){
-        String cadena = "23.500,19.300,21.320,18.569,23.658";
+        String cadena = "23500,19300,21320,18569,23658";
         String [] lista = cadena.split(",");
         
         return Double.parseDouble(lista[posicion]);
+    }
+
+    @Override
+    public int compareTo(Vehiculo uno) {
+        return this.getMarca().compareTo(uno.getMarca());
     }
 
 

@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package Ej4;
+package Ej4yEj7;
 
 import java.io.BufferedWriter;
 import java.io.FileWriter;

@@ -1,91 +1,91 @@
 TipoVehiculo:Matricula:Marca:Modelo:Color:Precio:Bastidor:Disponible
-0:6274NSD:Alfa Romeo:Guiullia:azul:23500.0:1330797:false:5:false
-1:2132RQW:Citroen:C4:rojo:19300.0:8149329:false:19000
-2:5483TJM:Citroen:C4:rojo:19300.0:7559644:false:3000:1500
-0:3709ÑLÑ:Renault:Megane:amarillo:21320.0:2488059:false:5:true
-1:1178BIX:Renault:Megane:dorado:21320.0:3410106:false:19000
-2:4688CAV:Opel:Astra:rojo:23658.0:4844306:false:3000:1500
-0:1608HRC:Seat:Ibiza:amarillo:18569.0:5795358:false:5:true
-1:2140JBO:Opel:Astra:azul:23658.0:6068767:false:19000
-2:1081KTN:Seat:Ibiza:amarillo:18569.0:8865194:false:3000:1500
-0:8860NDR:Seat:Ibiza:amarillo:18569.0:3117884:false:5:true
-1:4930SCI:Citroen:C4:azul:19300.0:849602:false:19000
-2:4391SHZ:Opel:Astra:rojo:23658.0:1736618:false:3000:1500
-0:3619RIC:Citroen:C4:rojo:19300.0:9853693:false:5:true
-1:7878ZFB:Renault:Megane:rojo:21320.0:1902936:false:19000
-2:0350XRX:Opel:Astra:negro:23658.0:8342859:false:3000:1500
-0:5466MQS:Citroen:C4:rojo:19300.0:4786633:false:5:false
-1:2210MXF:Renault:Megane:negro:21320.0:915695:false:19000
-2:9222HWX:Renault:Megane:amarillo:21320.0:2236566:false:3000:1500
-0:3115DHZ:Renault:Megane:rojo:21320.0:5221085:false:5:false
-1:0399AXA:Seat:Ibiza:dorado:18569.0:8640648:false:19000
-2:4976QRH:Renault:Megane:negro:21320.0:1840262:false:3000:1500
-0:5391YVO:Opel:Astra:rojo:23658.0:8708281:false:5:false
-1:8173KAU:Opel:Astra:negro:23658.0:2057828:false:19000
-2:0028CSA:Opel:Astra:amarillo:23658.0:371546:false:3000:1500
-0:4863AAZ:Seat:Ibiza:amarillo:18569.0:8041338:false:5:true
-1:7119RRU:Opel:Astra:dorado:23658.0:7478838:false:19000
-2:0162SFF:Opel:Astra:dorado:23658.0:7864725:false:3000:1500
-0:2982RAA:Opel:Astra:azul:23658.0:9719988:false:5:false
-1:3528AHE:Opel:Astra:rojo:23658.0:9849413:false:19000
-2:7726ÑXQ:Alfa Romeo:Guiullia:azul:23500.0:8217510:false:3000:1500
-0:9069THO:Citroen:C4:dorado:19300.0:5249517:false:5:false
-1:4646VUJ:Renault:Megane:rojo:21320.0:5023244:false:19000
-2:5495DRW:Alfa Romeo:Guiullia:amarillo:23500.0:5767255:false:3000:1500
-0:0277AWN:Seat:Ibiza:dorado:18569.0:8685692:false:5:false
-1:1706JZD:Alfa Romeo:Guiullia:negro:23500.0:5303736:false:19000
-2:6420OCV:Renault:Megane:rojo:21320.0:9412390:false:3000:1500
-0:4620XXP:Renault:Megane:dorado:21320.0:475347:false:5:true
-1:8635VFA:Renault:Megane:dorado:21320.0:6295524:false:19000
-2:2479ZAI:Seat:Ibiza:negro:18569.0:8450425:false:3000:1500
-0:7894VXM:Citroen:C4:dorado:19300.0:2401916:false:5:false
-1:5190ELO:Alfa Romeo:Guiullia:azul:23500.0:1084494:false:19000
-2:7440LJÑ:Citroen:C4:amarillo:19300.0:7758437:false:3000:1500
-0:7829WAY:Alfa Romeo:Guiullia:azul:23500.0:5461612:false:5:true
-1:2291YGJ:Opel:Astra:azul:23658.0:2895693:false:19000
-2:5116JTG:Citroen:C4:amarillo:19300.0:7334937:false:3000:1500
-0:5070PFO:Citroen:C4:amarillo:19300.0:903425:false:5:false
-1:9332FHU:Citroen:C4:azul:19300.0:5545696:false:19000
-2:2483LAP:Alfa Romeo:Guiullia:negro:23500.0:896846:false:3000:1500
-0:5307SBG:Renault:Megane:amarillo:21320.0:9776029:false:5:false
-1:8182DJP:Opel:Astra:negro:23658.0:3149761:false:19000
-2:4190OOR:Seat:Ibiza:azul:18569.0:341515:false:3000:1500
-0:3074QÑT:Renault:Megane:amarillo:21320.0:8900683:false:5:false
-1:8295GKS:Opel:Astra:rojo:23658.0:4993574:false:19000
-2:0405AEV:Citroen:C4:dorado:19300.0:1899262:false:3000:1500
-0:7064NDG:Citroen:C4:negro:19300.0:6071975:false:5:false
-1:2416ÑEP:Citroen:C4:negro:19300.0:339451:false:19000
-2:7852XVV:Alfa Romeo:Guiullia:negro:23500.0:5217654:false:3000:1500
-0:5353CPH:Alfa Romeo:Guiullia:negro:23500.0:5034746:false:5:false
-1:6789LQK:Seat:Ibiza:negro:18569.0:1598910:false:19000
-2:9002WVX:Opel:Astra:rojo:23658.0:5225554:false:3000:1500
-0:4955GKJ:Citroen:C4:dorado:19300.0:3249207:false:5:false
-1:8313LRK:Citroen:C4:negro:19300.0:8185355:false:19000
-2:7853EOJ:Renault:Megane:azul:21320.0:5587534:false:3000:1500
-0:8697XWN:Opel:Astra:azul:23658.0:8724688:false:5:false
-1:6173PTQ:Opel:Astra:rojo:23658.0:5806670:false:19000
-2:5123UEÑ:Citroen:C4:azul:19300.0:4839752:false:3000:1500
-0:0654EBR:Seat:Ibiza:dorado:18569.0:7759198:false:5:false
-1:2570AKH:Citroen:C4:amarillo:19300.0:1913144:false:19000
-2:2384VCL:Opel:Astra:amarillo:23658.0:6579728:false:3000:1500
-0:2656CUG:Opel:Astra:azul:23658.0:8690092:false:5:true
-1:1647EWL:Renault:Megane:azul:21320.0:1837810:false:19000
-2:5381RZP:Seat:Ibiza:amarillo:18569.0:8280519:false:3000:1500
-0:6491QBR:Seat:Ibiza:amarillo:18569.0:6668740:false:5:false
-1:4943GYO:Seat:Ibiza:azul:18569.0:8407836:false:19000
-2:0759NYP:Citroen:C4:rojo:19300.0:9918161:false:3000:1500
-0:8387FNJ:Alfa Romeo:Guiullia:amarillo:23500.0:5432887:false:5:true
-1:5806GTD:Opel:Astra:amarillo:23658.0:822723:false:19000
-2:3720GDQ:Renault:Megane:negro:21320.0:8182158:false:3000:1500
-0:9982FRZ:Renault:Megane:dorado:21320.0:5359809:false:5:false
-1:4643FVM:Opel:Astra:dorado:23658.0:7541724:false:19000
-2:9482DVJ:Citroen:C4:dorado:19300.0:3551257:false:3000:1500
-0:8872IVK:Opel:Astra:rojo:23658.0:4728498:false:5:true
-1:1127WYE:Citroen:C4:dorado:19300.0:420855:false:19000
-2:9230NKS:Seat:Ibiza:dorado:18569.0:2025177:false:3000:1500
-0:1354BDE:Opel:Astra:dorado:23658.0:4102437:false:5:false
-1:6384QDL:Renault:Megane:rojo:21320.0:2829382:false:19000
-2:2645HYX:Citroen:C4:rojo:19300.0:1988486:false:3000:1500
-0:3827XNA:Seat:Ibiza:azul:18569.0:328397:false:5:true
-1:8627DKO:Seat:Ibiza:dorado:18569.0:312440:false:19000
-2:7151HZU:Citroen:C4:negro:19300.0:8278909:false:3000:1500
+0:6056XJF:Seat:Ibiza:rojo:18569.0:3131182:false:5:true
+1:1809GXM:Opel:Astra:dorado:23658.0:4114249:false:19000
+2:1024TGE:Alfa Romeo:Guiullia:negro:23500.0:521911:false:3000:1500
+0:5087XMG:Citroen:C4:amarillo:19300.0:6993135:false:5:false
+1:0294Ã‘GB:Renault:Megane:rojo:21320.0:9878596:false:19000
+2:9639LUV:Citroen:C4:negro:19300.0:3055440:false:3000:1500
+0:9454SLY:Citroen:C4:rojo:19300.0:430034:false:5:false
+1:8490LWD:Alfa Romeo:Guiullia:dorado:23500.0:553054:false:19000
+2:3719HMX:Opel:Astra:rojo:23658.0:2134582:false:3000:1500
+0:1750QTL:Renault:Megane:rojo:21320.0:1907489:false:5:false
+1:7820GRJ:Renault:Megane:amarillo:21320.0:2781970:false:19000
+2:5006CAV:Opel:Astra:rojo:23658.0:4380061:false:3000:1500
+0:1692UJV:Seat:Ibiza:dorado:18569.0:4865277:false:5:true
+1:5393DCF:Opel:Astra:rojo:23658.0:700161:false:19000
+2:8294ZZI:Citroen:C4:amarillo:19300.0:8046290:false:3000:1500
+0:3290IXC:Alfa Romeo:Guiullia:amarillo:23500.0:7757906:false:5:false
+1:1993RSK:Renault:Megane:negro:21320.0:9564905:false:19000
+2:4313ZSY:Opel:Astra:amarillo:23658.0:9531394:false:3000:1500
+0:6679TOP:Renault:Megane:negro:21320.0:9704603:false:5:false
+1:1193CIP:Alfa Romeo:Guiullia:rojo:23500.0:5267853:false:19000
+2:1449HVJ:Citroen:C4:amarillo:19300.0:9512293:false:3000:1500
+0:4872PCÃ‘:Opel:Astra:amarillo:23658.0:926006:false:5:true
+1:6535GDO:Citroen:C4:rojo:19300.0:1309579:false:19000
+2:3172QRO:Alfa Romeo:Guiullia:azul:23500.0:6805861:false:3000:1500
+0:6140QFH:Seat:Ibiza:negro:18569.0:6643378:false:5:false
+1:1760BNR:Opel:Astra:negro:23658.0:9742240:false:19000
+2:5417LDC:Alfa Romeo:Guiullia:rojo:23500.0:9335187:false:3000:1500
+0:9472PND:Citroen:C4:rojo:19300.0:9229153:false:5:false
+1:0707ORC:Alfa Romeo:Guiullia:amarillo:23500.0:6269001:false:19000
+2:3853ENW:Renault:Megane:amarillo:21320.0:608161:false:3000:1500
+0:2894KUQ:Seat:Ibiza:azul:18569.0:2848256:false:5:false
+1:6381TZG:Alfa Romeo:Guiullia:amarillo:23500.0:2601590:false:19000
+2:1839FOH:Seat:Ibiza:azul:18569.0:2317534:false:3000:1500
+0:5221IVY:Opel:Astra:negro:23658.0:5697596:false:5:false
+1:9592JJK:Citroen:C4:azul:19300.0:5042423:false:19000
+2:3812LDF:Alfa Romeo:Guiullia:rojo:23500.0:2286340:false:3000:1500
+0:9294LJW:Seat:Ibiza:dorado:18569.0:5099516:false:5:true
+1:8403BVM:Renault:Megane:dorado:21320.0:9045091:false:19000
+2:3601JPU:Renault:Megane:amarillo:21320.0:8455180:false:3000:1500
+0:9736DWI:Renault:Megane:amarillo:21320.0:7927331:false:5:true
+1:4262PNQ:Seat:Ibiza:negro:18569.0:4128841:false:19000
+2:7785JOV:Alfa Romeo:Guiullia:negro:23500.0:381440:false:3000:1500
+0:0246DPA:Renault:Megane:rojo:21320.0:7215752:false:5:true
+1:1724WZU:Citroen:C4:azul:19300.0:6614953:false:19000
+2:7440AVG:Seat:Ibiza:azul:18569.0:1415690:false:3000:1500
+0:0699HLQ:Alfa Romeo:Guiullia:negro:23500.0:2675111:false:5:false
+1:1189HTL:Citroen:C4:dorado:19300.0:6484334:false:19000
+2:3452AQF:Renault:Megane:dorado:21320.0:345941:false:3000:1500
+0:0307ZSG:Seat:Ibiza:amarillo:18569.0:2146628:false:5:true
+1:2304FVA:Opel:Astra:negro:23658.0:596492:false:19000
+2:8144DZB:Alfa Romeo:Guiullia:rojo:23500.0:265994:false:3000:1500
+0:2619QHY:Renault:Megane:amarillo:21320.0:8434369:false:5:false
+1:9899RBE:Renault:Megane:amarillo:21320.0:7366699:false:19000
+2:4845AGL:Alfa Romeo:Guiullia:amarillo:23500.0:3882342:false:3000:1500
+0:6511WRX:Renault:Megane:negro:21320.0:7744181:false:5:false
+1:7069OXS:Alfa Romeo:Guiullia:dorado:23500.0:2986662:false:19000
+2:2636CZV:Citroen:C4:amarillo:19300.0:8387715:false:3000:1500
+0:6272UER:Renault:Megane:amarillo:21320.0:1493602:false:5:false
+1:8249RÃ‘S:Seat:Ibiza:rojo:18569.0:461199:false:19000
+2:8464OYF:Alfa Romeo:Guiullia:rojo:23500.0:9359587:false:3000:1500
+0:0744TYG:Citroen:C4:dorado:19300.0:8890078:false:5:true
+1:1414RFB:Renault:Megane:dorado:21320.0:4027538:false:19000
+2:4429AJO:Citroen:C4:amarillo:19300.0:5026426:false:3000:1500
+0:3798EKÃ‘:Renault:Megane:negro:21320.0:8170965:false:5:true
+1:6214QXI:Alfa Romeo:Guiullia:negro:23500.0:766610:false:19000
+2:8306KOH:Seat:Ibiza:rojo:18569.0:4582445:false:3000:1500
+0:0071SIW:Citroen:C4:dorado:19300.0:9364386:false:5:false
+1:2349EFT:Seat:Ibiza:rojo:18569.0:2692598:false:19000
+2:7388WCU:Opel:Astra:rojo:23658.0:438824:false:3000:1500
+0:3730GTK:Opel:Astra:azul:23658.0:1132893:false:5:true
+1:7411UÃ‘F:Opel:Astra:amarillo:23658.0:2196497:false:19000
+2:3952BVM:Renault:Megane:negro:21320.0:4798447:false:3000:1500
+0:1731Ã‘BX:Renault:Megane:amarillo:21320.0:8249116:false:5:false
+1:6639ZBN:Renault:Megane:negro:21320.0:7325305:false:19000
+2:4607ANK:Alfa Romeo:Guiullia:negro:23500.0:2524983:false:3000:1500
+0:3326JBT:Citroen:C4:dorado:19300.0:9312890:false:5:true
+1:6886AGB:Alfa Romeo:Guiullia:dorado:23500.0:5062375:false:19000
+2:7132ASR:Alfa Romeo:Guiullia:amarillo:23500.0:624930:false:3000:1500
+0:4163DQZ:Opel:Astra:dorado:23658.0:5300733:false:5:false
+1:7104IIE:Opel:Astra:dorado:23658.0:438611:false:19000
+2:0798IOB:Citroen:C4:dorado:19300.0:5941648:false:3000:1500
+0:4789CCT:Alfa Romeo:Guiullia:rojo:23500.0:8996904:false:5:true
+1:1802EPV:Renault:Megane:amarillo:21320.0:819525:false:19000
+2:1387EIE:Opel:Astra:dorado:23658.0:4679187:false:3000:1500
+0:3764MKL:Alfa Romeo:Guiullia:azul:23500.0:6194197:false:5:true
+1:7950KXU:Alfa Romeo:Guiullia:azul:23500.0:8554918:false:19000
+2:7535TIP:Alfa Romeo:Guiullia:dorado:23500.0:6260126:false:3000:1500
+0:2276CDL:Renault:Megane:azul:21320.0:5354993:false:5:false
+1:7222QDX:Citroen:C4:rojo:19300.0:17292:false:19000
+2:4137YEU:Citroen:C4:azul:19300.0:6886070:false:3000:1500

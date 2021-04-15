@@ -48,9 +48,8 @@ public class LeerVehiculos {
                 // línea en función del carácter separador coma
                 tokens = linea.split(":");
 
-                for (String string : tokens) {
 
-                    switch (Integer.parseInt(tokens[0])) {
+                    switch (Integer.parseInt(tokens[0])) { //el swicht se permite string
                         case 0:
                             Turismo t1 = new Turismo();
                             t1.setMatricula(tokens[1]);
@@ -89,8 +88,7 @@ public class LeerVehiculos {
                             f1.setVolumen(Integer.parseInt(tokens[9]));
                             listaVehiculo.add(f1);
                             break;
-                    }
-
+                    
                 }
 
             }

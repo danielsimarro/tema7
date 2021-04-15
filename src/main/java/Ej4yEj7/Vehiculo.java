@@ -122,6 +122,8 @@ public class Vehiculo implements Comparable<Vehiculo> {
 
             }
         } while (comprobarDubplicado(cadena));
+        
+        listaSerie.add(cadena);
 
         return cadena;
 
@@ -159,8 +161,8 @@ public class Vehiculo implements Comparable<Vehiculo> {
             
         } while (comprobarDubplicadoBastidor(cadena));
         
+        listaSerieBastidor.add(cadena);
         
-
         return Long.parseLong(cadena);
 
     }

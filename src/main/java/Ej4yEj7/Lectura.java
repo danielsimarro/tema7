@@ -12,7 +12,9 @@ import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.util.ArrayList;
+import java.util.List;
 import java.util.Scanner;
+import java.util.stream.Collectors;
 
 /**
  *
@@ -192,12 +194,12 @@ public class Lectura {
         } else {
             System.out.println("El directorio a listar no existe");
         }
-        
-        for(String l: listaRaiz){
+
+        for (String l : listaRaiz) {
             System.out.println(l);
         }
 
-        for (int i =0;i < listaRaiz.size();i++) {
+        for (int i = 0; i < listaRaiz.size(); i++) {
 
             Path element = Paths.get(listaRaiz.get(i));
             try {
@@ -208,5 +210,45 @@ public class Lectura {
             }
 
         }
+        System.out.println("\nEl fichero raiz contiene:");
+
+        if (f.exists()) {
+            File[] ficheros = raiz.listFiles();
+            for (File file2 : ficheros) {
+                System.out.println(file2.getName());
+            }
+        } else {
+            System.out.println("El directorio a listar no existe");
+        }
+        
+        
+        List<Vehiculo> blanco = listaVehiculos.stream()
+                .filter(v -> v.getColor().equalsIgnoreCase("negro"))
+                .sorted((v1,v2)->v1.getMatricula().compareTo(v2.getMatricula()))
+                .collect(Collectors.toList());
+        
+        System.out.println("\nLos vehiculos negros son:");
+        for(Vehiculo v: blanco){
+            System.out.println(v);
+        }
+        
+        System.out.println("\nLos vehiculos no disponibles son:");
+        List<String> disponible = listaVehiculos.stream()
+                .filter(v -> v.isDisponible() != true)
+                .map(d -> d.getMarca())
+                .collect(Collectors.toList());
+        disponible.forEach(System.out::println);
+        
+        long cantidadMarca = listaVehiculos.stream()
+                .filter(p -> p.getMarca().equalsIgnoreCase("Renault"))
+                .count();
+        System.out.println("\nEl número de coches Renault son: " + cantidadMarca);
+        
+        boolean seat = listaVehiculos.stream().anyMatch((p) -> p.getMarca().equalsIgnoreCase("Seat") && p.getColor().equalsIgnoreCase("dorado"));
+        
+        System.out.println("Hay algun seat dorado :" + seat);
+        
+                
     }
+    
 }

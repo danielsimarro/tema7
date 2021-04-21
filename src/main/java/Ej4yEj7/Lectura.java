@@ -180,9 +180,9 @@ public class Lectura {
 
         ArrayList<String> listaRaiz = new ArrayList<>();
 
-        File raiz = new File("/.");
+        File raiz = new File("./");
         if (f.exists()) {
-            File[] ficheros = f.listFiles();
+            File[] ficheros = raiz.listFiles();
             for (File file2 : ficheros) {
                 if (file2.getName().contains("csv")) {
                     listaRaiz.add(file2.getName());
@@ -192,10 +192,14 @@ public class Lectura {
         } else {
             System.out.println("El directorio a listar no existe");
         }
+        
+        for(String l: listaRaiz){
+            System.out.println(l);
+        }
 
-        for (int i =0;i > listaRaiz.size();i++) {
+        for (int i =0;i < listaRaiz.size();i++) {
 
-            Path element = Paths.get("/home/usuario/carpeta");
+            Path element = Paths.get(listaRaiz.get(i));
             try {
                 Files.delete(element);
             } catch (IOException e) {
